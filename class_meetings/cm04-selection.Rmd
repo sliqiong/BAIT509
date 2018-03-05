@@ -1,10 +1,14 @@
 ---
-title: 'BAIT 509 Class Meeting 03: Generalization Error'
+title: 'BAIT 509 Class Meeting 04'
+subtitle: "Model Selection"
 output: github_document
 ---
 
 ## Topics
 
+- Selecting hyperparameters; selecting predictors. 
+- parametric vs. non-parametric
+- error from adding more predictors
 - Generalization error
 - Training, validation, and test sets
 - Cross validation
