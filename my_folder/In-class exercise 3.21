@@ -1,0 +1,9 @@
+1. Both are predicted to have the same productivity score of 75, but have the following probabilistic forecasts.
+Candidate A has high probability 40% of getting 75 productivity score while candidate B only has 13% probability of getting 75 productivity score.  The productivity performance has high variance for candidate B, while in contrast, candidate A has a relatively stable productivity performance centered with 75.
+
+2. Two “non-overlapping” forecasts.
+Candidate A has a relatively stable productivity performance around 60 productivity scores with low variance. Candidate B has a high productivity score of 80. However, candidate B has higher variance and lower probability of achieving productivity score of 80.
+
+3. You’ve formed a probabilistic forecast for a particular value of the predictors, displayed below as a density. You then collect test data for that same value of the predictor, indicated as the points below the density. What is the problem with the probabilistic forecast?
+The probabilistic forecast is biased because the test data for the same value of the predictor are not centered around zero, which is indicated by the forecast density curve. 
+ 
