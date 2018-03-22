@@ -1,0 +1,6 @@
+0.8 quantile = 100  means that 80% of the data are less than 100.
+0.5 quantile = 100  means median. 
+0.9 quantile = 100  in flood case means: only 10% will exceed 100, predict the flood.
+Whenever you want a total, the mean is the best bet.
+
+
