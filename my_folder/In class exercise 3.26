@@ -14,7 +14,7 @@ Observation 6, 7, 8, 9 and 10 will receive penalty, and also they are the suppor
 0.25 + 0.25 + 1.75 + 2.25 + 1.25 = 5.75
 
 5.	Can I choose a bigger margin if my total allowable penalty is 6?
-It depends. 
+Yes in this case.
 With the increase of margin width from 0, the penalty starts to decrease at first and then start to increase.
 
 6.	Are the data separable? If so, what are the support vectors?
