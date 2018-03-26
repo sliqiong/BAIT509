@@ -1,0 +1,21 @@
+6 In-class exercises
+
+1.	Construct the decision rule according to this classification boundary. How would you classify a new observation that has x1=6x1=6 and x2=10x2=10?
+
+I will classify the new observation as A according to the rule that it is to the right of the decision boundary which is classification A.
+
+2.	What size is the margin here?
+According to the plot, the margin size is 2.
+
+3.	Which observations receive a penalty? Which observations are the support vectors?
+Observation 6, 7, 8, 9 and 10 will receive penalty, and also they are the support vectors as they are the only ones to contribute to a penalty.
+
+4.	What is the total penalty here?  (the proportion of the margin)
+0.25 + 0.25 + 1.75 + 2.25 + 1.25 = 5.75
+
+5.	Can I choose a bigger margin if my total allowable penalty is 6?
+It depends. 
+With the increase of margin width from 0, the penalty starts to decrease at first and then start to increase.
+
+6.	Are the data separable? If so, what are the support vectors?
+Yes, the support vectors are 4, 8 and 9.
